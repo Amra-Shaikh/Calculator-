@@ -31,8 +31,7 @@ The final version of the calculator was a fully functional, easy-to-use applicat
 The project provided practical experience in GUI programming, a key skill for desktop application development. By using Tkinter, I was able to create a smooth user interface, and the Python programming allowed me to manage both the front-end and back-end logic of the calculator.
 
 
-Conclusion
-The Calculator project was a valuable learning experience, allowing me to combine Python programming with GUI design using Tkinter. It also reinforced my understanding of basic mathematical operations, input validation, and error handling in software applications. This project represents my ability to create user-friendly desktop applications that offer both functionality and simplicity.
+
 
 Conclusion
 The Calculator project was a valuable learning experience, allowing me to combine Python programming with GUI design using Tkinter. It also reinforced my understanding of basic mathematical operations, input validation, and error handling in software applications. This project represents my ability to create user-friendly desktop applications that offer both functionality and simplicity.
